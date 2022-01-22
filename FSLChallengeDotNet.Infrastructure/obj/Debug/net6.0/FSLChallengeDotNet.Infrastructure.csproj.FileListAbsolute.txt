@@ -1,0 +1,17 @@
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/bin/Debug/net6.0/FSLChallengeDotNet.Infrastructure.deps.json
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/bin/Debug/net6.0/FSLChallengeDotNet.Infrastructure.runtimeconfig.json
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/bin/Debug/net6.0/FSLChallengeDotNet.Infrastructure.dll
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/bin/Debug/net6.0/ref/FSLChallengeDotNet.Infrastructure.dll
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/bin/Debug/net6.0/FSLChallengeDotNet.Infrastructure.pdb
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/bin/Debug/net6.0/FSLChallengeDotNet.Core.dll
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/bin/Debug/net6.0/FSLChallengeDotNet.Core.pdb
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/FSLChallengeDotNet.Infrastructure.csproj.AssemblyReference.cache
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/FSLChallengeDotNet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/FSLChallengeDotNet.Infrastructure.AssemblyInfoInputs.cache
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/FSLChallengeDotNet.Infrastructure.AssemblyInfo.cs
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/FSLChallengeDotNet.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/FSLChallengeDotNet.Infrastructure.csproj.CopyComplete
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/FSLChallengeDotNet.Infrastructure.dll
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/ref/FSLChallengeDotNet.Infrastructure.dll
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/FSLChallengeDotNet.Infrastructure.pdb
+/Users/erduanhoda/Documents/Projects/FSLChallengeDotNet/FSLChallengeDotNet.Infrastructure/obj/Debug/net6.0/FSLChallengeDotNet.Infrastructure.genruntimeconfig.cache
